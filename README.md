@@ -31,7 +31,7 @@ npm run dev
 ### Languages, Frameworks & APIs
 
 Core Languages: Javascript
-Backend and Web Application Views: React, Node.js
+Backend and Web Application Views: React (Front end is viewable in a separate repo), Node.js
 APIs: Plaid & Stripe
 
 ### Team Members
